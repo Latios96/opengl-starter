@@ -16,6 +16,7 @@ Generate a Visual Studio Project on Windows:
 
 ```
 git clone --recursive https://github.com/Latios96/opengl-starter.git
+cd opengl-starter
 mkdir build
 cd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
